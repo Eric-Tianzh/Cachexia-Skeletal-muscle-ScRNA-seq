@@ -3,4 +3,4 @@
 Analysis workflow of Skeletal muscle stem cells reprogramming potentiates cancer cachexia
 
 
-<img src="https://github.com/Eric-Tianzh/Cachexia-Skeletal-muscle-ScRNA-seq/blob/main/graphical.png" width="600"/>
+<img src="https://github.com/Eric-Tianzh/Cachexia-Skeletal-muscle-ScRNA-seq/blob/main/graphical.png" width="700"/>
